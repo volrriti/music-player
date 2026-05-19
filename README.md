@@ -1,7 +1,5 @@
 # music-player
 
-# Android Music Player — Project Documentation
-
 ## Overview
 
 A native Android music player app built in Kotlin. Clean, feature-rich, no ads, no streaming — plays local files only.
